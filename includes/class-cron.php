@@ -1,4 +1,4 @@
-?php
+<?php
 namespace WPFPP;
 
 if (!defined('ABSPATH')) {
