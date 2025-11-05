@@ -1,0 +1,14 @@
+.wpfpp-app{max-width:1200px}
+.wpfpp-title{margin-bottom:10px}
+.card{background:#fff;border:1px solid #dcdcdc;border-radius:10px;box-shadow:0 1px 2px rgba(0,0,0,.03);padding:0}
+.wpfpp-settings-form .form-table th{width:240px}
+.wpfpp-tabs .nav-tab{font-weight:600}
+.wpfpp-img{display:inline-block;margin:6px;position:relative;padding:10px;border:1px dashed #c7c7c7;background:#fff;border-radius:12px}
+.wpfpp-img img{display:block;max-width:160px;height:auto;border:1px solid #eee;background:#fff;border-radius:8px}
+.wpfpp-actions{margin-top:6px;display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.wpfpp-drag{cursor:move;position:absolute;left:8px;top:8px;font-weight:bold;background:#f5f5f5;border-radius:6px;padding:0 6px}
+.wpfpp-sortable{display:flex;flex-wrap:wrap;gap:8px}
+.wpfpp-fb-preview{border:1px solid #ddd;padding:10px;max-width:520px;border-radius:12px;background:#fafafa}
+.wpfpp-fb-preview .fb-header{font-weight:600;margin-bottom:8px}
+#wpfpp-cropper-modal{background:#fff;border:1px solid #ddd;padding:12px;max-width:720px;border-radius:12px}
+.wpfpp-filters{display:flex;gap:8px;align-items:center;margin-bottom:10px}
